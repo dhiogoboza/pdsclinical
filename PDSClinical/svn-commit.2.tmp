@@ -1,0 +1,43 @@
+-
+
+--This line, and those below, will be ignored--
+
+A    grails-app
+A    grails-app/taglib
+A    grails-app/services
+A    grails-app/conf
+A    grails-app/conf/DataSource.groovy
+A    grails-app/conf/hibernate
+A    grails-app/conf/BootStrap.groovy
+A    grails-app/conf/ApplicationResources.groovy
+A    grails-app/conf/spring
+A    grails-app/conf/spring/resources.groovy
+A    grails-app/conf/UrlMappings.groovy
+A    grails-app/conf/BuildConfig.groovy
+A    grails-app/conf/Config.groovy
+A    grails-app/controllers
+A    grails-app/domain
+A    grails-app/views
+A    grails-app/views/index.gsp
+A    grails-app/views/layouts
+A    grails-app/views/layouts/main.gsp
+A    grails-app/views/error.gsp
+A    grails-app/i18n
+A    grails-app/i18n/messages_da.properties
+A    grails-app/i18n/messages_ru.properties
+A    grails-app/i18n/messages_pt_PT.properties
+A    grails-app/i18n/messages_de.properties
+A    grails-app/i18n/messages_sv.properties
+A    grails-app/i18n/messages_ja.properties
+A    grails-app/i18n/messages_nb.properties
+A    grails-app/i18n/messages_zh_CN.properties
+A    grails-app/i18n/messages_cs_CZ.properties
+A    grails-app/i18n/messages_pt_BR.properties
+A    grails-app/i18n/messages_es.properties
+A    grails-app/i18n/messages_fr.properties
+A    grails-app/i18n/messages_nl.properties
+A    grails-app/i18n/messages_pl.properties
+A    grails-app/i18n/messages_th.properties
+A    grails-app/i18n/messages_it.properties
+A    grails-app/i18n/messages.properties
+A    grails-app/utils
